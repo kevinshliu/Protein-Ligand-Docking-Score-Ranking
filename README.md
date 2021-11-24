@@ -1,1 +1,1 @@
-# Protein-Ligand-Docking-Score-Ranking
+# Protein Ligand Docking Score Ranking
